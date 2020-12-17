@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Greet Me App</string>
+    <string name="person_name">Your Name</string>
+    <string name="say_hello">Greet Me!</string>
+</resources>
